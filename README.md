@@ -1,4 +1,4 @@
-[![MasterHead](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)]
+![MasterHead](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)
 <h1 align="center">Hi 👋, I'm Arun Pandian</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/5eKX.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [arunpandianportfolio.netlify.app](arunpandianportfolio.netlify.app)
+- 👨‍💻 My Portfolio [arunpandianportfolio.netlify.app](arunpandianportfolio.netlify.app)
 
 - 💬 Ask me about **MERN stack**
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun2516&show_icons=true&locale=en" alt="arun2516" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun2516&" alt="arun2516" /></p>
-
