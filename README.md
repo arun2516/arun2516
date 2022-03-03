@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 My Portfolio [arunpandianportfolio.netlify.app](arunpandianportfolio.netlify.app)
+- 👨‍💻 My Portfolio [https://arunpandianportfolio.netlify.app/](https://arunpandianportfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack**
 
