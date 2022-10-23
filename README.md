@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Portfolio [https://arunpandianportfolio.netlify.app/](https://arunpandianportfolio.netlify.app/)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack** **MEAN stack**
 
 - 📫 How to reach me **toarun25@gmail.com**
 
